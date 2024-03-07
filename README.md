@@ -1,6 +1,7 @@
 # Real Estate Pricing
 
-I created an interactive dashboard to help a client predict prices using a statistical model in a dynamic real estate market.
+I created an interactive dashboard to help a client predict prices using a statistical model in a dynamic real estate market. The scatterplots also show the relationship between the explanatory variables and price.
+
 The model takes into account various explanatory variables to output price as the predictor variable.
 [Click here to interact with the live dashboard](https://1drv.ms/x/c/835a96e9ae3c6b4b/EXaPbbd1QdlMnapWUm8mG7gBgHCduh55uwEtJ3XJf3iqEQ)
 
